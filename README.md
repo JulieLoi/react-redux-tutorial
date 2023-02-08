@@ -1,5 +1,6 @@
 # Base Project
-React Redux Basic Tutorial [link] (https://www.youtube.com/watch?v=k68j9xlbHHk)
+ - React Redux Basic Tutorial ([link](https://www.youtube.com/watch?v=k68j9xlbHHk))
+ - Github Link ([link](https://github.com/machadop1407/react-redux-toolkit-tutorial))
 
 # Running the Project
 
@@ -10,7 +11,7 @@ React Redux Basic Tutorial [link] (https://www.youtube.com/watch?v=k68j9xlbHHk)
 <hr />
 <br />
 
-# Redux Introductions
+# Redux Introduction
 ## Redux ([Link](https://redux.js.org/introduction/getting-started))
 <b>Redux</b> is a predictable state container for JS Apps.
 
