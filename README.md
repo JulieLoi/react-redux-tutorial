@@ -1,3 +1,6 @@
+# Base Project
+React Redux Basic Tutorial [link] (https://www.youtube.com/watch?v=k68j9xlbHHk)
+
 # Running the Project
 
 ### `npm run start`

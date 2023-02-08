@@ -9,14 +9,13 @@ const Login = () => {
     const initialUserState = { name: "", age: 0, email: "" };
     const [user, setUser] = useState(initialUserState);
 
-
     // Handles Login
     const handleLogout = () => {
         setUser(initialUserState);
         dispatch(logout());
     }
 
-
+    // Login Component
     return (
         <div className="login form">
             <h2>Form</h2>
