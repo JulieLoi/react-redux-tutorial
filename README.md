@@ -2,6 +2,8 @@
  - React Redux Basic Tutorial ([link](https://www.youtube.com/watch?v=k68j9xlbHHk))
  - Github Link ([link](https://github.com/machadop1407/react-redux-toolkit-tutorial))
 
+ Added Redux-Persists ([link](https://github.com/rt2zz/redux-persist#readme))
+
 # Running the Project
 
 ### `npm run start`

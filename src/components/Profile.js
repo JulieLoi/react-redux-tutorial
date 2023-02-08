@@ -3,6 +3,8 @@ import { useSelector } from 'react-redux';
 
 const Profile = () => {
 
+    console.log(useSelector((state) => state))
+
     const user = useSelector((state) => state.user.value);
     const themeColor = useSelector((state) => state.theme.value);
 
